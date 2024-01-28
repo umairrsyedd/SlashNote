@@ -25,19 +25,19 @@ import { ContentType } from "./content-type";
       image: headingImage,
       type: ContentType.Heading1,
       description: "Big section heading.",
-      keywords: ["h1"]
+      keywords: ["h1", "1", "Heading1"]
     },
     {
       image: heading2Image,
       type: ContentType.Heading2,
       description: "Medium Section heading.",
-      keywords: ["h2"]
+      keywords: ["h2", "2" , "Heading2"]
     },
     {
       image: heading3Image,
       type: ContentType.Heading3,
       description: "Small Section heading.",
-      keywords: ["h3"]
+      keywords: ["h3", "3" , "Heading3"]
     },
     {
       image: todoImage,
