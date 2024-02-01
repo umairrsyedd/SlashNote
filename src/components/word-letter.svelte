@@ -28,11 +28,12 @@
   }
 
   .word-letter-number {
-    font-size: 0.9rem;
+    font-size: 1.3rem;
   }
 
   .word-count,
   .letter-count {
     padding: 2px;
+    font-size: 0.8rem;
   }
 </style>
