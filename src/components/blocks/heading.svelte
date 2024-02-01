@@ -225,7 +225,7 @@
     font-weight: 650;
   }
   .heading3 {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     line-height: 1.3;
     font-weight: 650;
   }
