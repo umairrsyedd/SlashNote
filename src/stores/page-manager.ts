@@ -10,7 +10,7 @@ type ContentBlock = {
 
 
 export const contentManager = writable<ContentBlock[]>([])
-export const focusedBlock = writable<number>(-1);
+export const focusedBlock = writable<number>(2);
 
 
 

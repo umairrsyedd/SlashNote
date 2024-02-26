@@ -9,23 +9,20 @@ export type SampleData = {
 
 export const sampleData: SampleData = {
   data: [
+  {
+    type: "Title",
+    content: "Welcome to SlashNote!",
+  },
     {
-      type: "Title",
-      content: "",
-    },
-    // {
-    //   type: "Text",
-    //   content:
-    //     "Welcome to the Awesome Adventures Blog! Join us on a journey through thrilling stories, exciting discoveries, and unforgettable moments.",
-    // },
-    // {
-    //   type: "Heading1",
-    //   content: "Travel Escapades",
-    // },
-    // {
-    //   type: "Heading2",
-    //   content: "Exploring Exotic Islands",
-    // },
+    type: "Heading1",
+    content:
+      "Getting Started",
+  },
+  {
+    type: "Text",
+    content:
+      "Type enter to create a new block. Use / to toggle block styles and customize your text easily.",
+  },
     // {
     //   type: "Text",
     //   content:
